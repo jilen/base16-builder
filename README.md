@@ -14,6 +14,7 @@ Build only the "default" theme
 Build a scheme stored on some webspace.
 
 ## Templates
+* Atom
 * BBEdit (TextWrangler)
 * Chrome DevTools
 * CodeMirror
@@ -21,12 +22,14 @@ Build a scheme stored on some webspace.
 * Escape Code Shell Script
 * Gedit
 * Gnome Terminal
+* Guake
 * highlight.js
 * HTML Preview
 * iTerm 2
 * Mate Terminal
 * MinTTY
 * Mou
+* MultiMarkdown Composer 2
 * Notepad++
 * prettify.js
 * Pygments
@@ -47,10 +50,11 @@ Build a scheme stored on some webspace.
 * [joedynamite](https://github.com/joedynamite) - Xcode 4
 * [robloach](https://github.com/robloach) - Geany
 * [geoffstokes](https://github.com/geoffstokes) - Windows Command Prompt, MinTTY
-* [idleberg](https://github.com/idleberg) - Chrome DevTools, CodeMirror, Gedit, highlight.js, Notepad++, prettify.js, Pygments, Rainbow
+* [idleberg](https://github.com/idleberg) - Atom, Chrome DevTools, CodeMirror, Gedit, highlight.js, Notepad++, prettify.js, Pygments, Rainbow
 * [rgieseke](https://github.com/rgieseke) - Textadept
 * [oxplot](https://github.com/oxplot) - Mate Terminal
 * [esn89](https://github.com/esn89) - Zathura PDF Reader
+* [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
