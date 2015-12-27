@@ -1,0 +1,19 @@
+# Dracula Theme
+scheme: "dracula"
+author: "https://github.com/zenorocha/dracula-theme"
+base00: "282a36" #  ----
+base01: "373844" #  ---
+base02: "44475a" #  --
+base03: "464752" #  -
+base04: "565761" #  +
+base05: "ccccc7" #  ++
+base06: "e2e2dc" #  +++
+base07: "f8f8f2" #  +++
+base08: "ff5555" #  red
+base09: "ffb86c" #  orange
+base0A: "f1fa8c" #  yellow
+base0B: "50fa7b" #  green
+base0C: "8be9fd" #  aqua
+base0D: "0189cc" #  blue
+base0E: "ff79c6" #  purple
+base0F: "ffb86c" #  brown
